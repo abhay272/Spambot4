@@ -1,11 +1,11 @@
-<h1 align="center"><b>😈 𝓚𝓐𝓡𝓟𝓘𝓣 𝓢𝓟𝓐𝓜 𝓑𝓞𝓣 😈</b></h1>
+<h1 align="center"><b>😈 𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑_𝐒𝐏𝐀𝐌🔥💫 😈</b></h1>
 
-<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌 𝐔𝐒𝐄𝐑𝐁𝐎𝐓𝐒 𝐌𝐀𝐃𝐄 ʙʏ ᴋʀɪꜱʜɴᴀ ꜰᴏʀ ʜᴇᴀᴠʏ ꜱᴘᴀᴍᴍᴇʀꜱ </h4>
+<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌 𝐔𝐒𝐄𝐑𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/Nyhna"><img src="https://telegra.ph/file/8ab4b1f900cb71eaf59be.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Nyhna"><img src="https://te.legra.ph/file/fee94bc3ea4a4a0f6ae26.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using THIS OP KARPIT SPAM BOT, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using THIS OP ENGINEER SPAM BOT, That is the greatest pleasure we have !
 
 <details>
 <summary><b>ꜰᴇᴀᴛᴜʀᴇꜱ</b></summary>
@@ -82,9 +82,9 @@
 <br>
 
 # ꜱᴜᴘᴘᴏʀᴛ ✨
-<a href="https://t.me/KARPIT_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="**https://t.me/KARPIT_LOGS"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/KARPIT_SPAM"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/NITPAID"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="**https://t.me/fullchatbazzi"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/fullchatbazzi"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
 
 </details>
