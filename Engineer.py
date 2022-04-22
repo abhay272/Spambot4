@@ -80,7 +80,7 @@ put = ""
 
 que = {}
 
-SMEX_USERS = [5088683114, 5098147320]
+SMEX_USERS = []
 for x in SUDO: 
     SMEX_USERS.append(x)
     
@@ -965,19 +965,19 @@ async def start(event):
     if event.sender_id in SMEX_USERS:
      await idk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption=" 𓆩𝘿𝘼𝙆𝙐𖤍𝙀𝙉𝙂𝙄𝙉𝙀𝙀𝙍𓆪  ⟁⃤[🇮🇳]™ "                                
+                                  caption="  "                            
                               )
      await ydk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption=" 𓆩𝘿𝘼𝙆𝙐𖤍𝙀𝙉𝙂𝙄𝙉𝙀𝙀𝙍𓆪  ⟁⃤[🇮🇳]™ "                                
+                                  caption="  "                                
                               )
      await wdk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption=" 𓆩𝘿𝘼𝙆𝙐𖤍𝙀𝙉𝙂𝙄𝙉𝙀𝙀𝙍𓆪  ⟁⃤[🇮🇳]™ "                                
+                                  caption="  "                              
                               )
      await hdk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
-                                  caption=" 𓆩𝘿𝘼𝙆𝙐𖤍𝙀𝙉𝙂𝙄𝙉𝙀𝙀𝙍𓆪  ⟁⃤[🇮🇳]™"                                
+                                  caption="  "                           
                               )
      await sdk.send_file(event.chat_id,
                                   ALIVE_IMAGE,
